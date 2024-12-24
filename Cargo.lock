@@ -184,6 +184,7 @@ dependencies = [
  "native-windows-derive",
  "native-windows-gui",
  "windows",
+ "windows-strings",
 ]
 
 [[package]]
